@@ -1,0 +1,2 @@
+# CyberPhy
+This repository contains CyberPhy- an open-source framework for automated predictive analytics of equipments. The framework helps based on data predict failures of eqipment in short-term or mid-term period. The framework is based on PAP (predictive analytics pipeline) using a set of machine learning approaches.   The project is performed in framework of activities Computer Aided Design Dept. at Volgograd State Technical University.
